@@ -1,16 +1,16 @@
 .info {
    display: flex;
    flex-direction: column;
-   
+   width: 100%;
 }
 
 .name {
    font-size: 3vw;
    font-weight: 900;
-   text-align: justify;
    text-transform: uppercase;
    color: #71a200;
    margin: 2vw 1vw 0 1vw;
+   line-height: 2rem;
 }
 
 .profileImage {
