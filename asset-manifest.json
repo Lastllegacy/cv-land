@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/cv-land/static/css/main.7b9005d3.css",
+    "main.css": "/cv-land/static/css/main.f1e0986c.css",
     "main.js": "/cv-land/static/js/main.6692a8d3.js",
     "static/media/photo.jpg": "/cv-land/static/media/photo.4f11b988ead455f758b5.jpg",
     "index.html": "/cv-land/index.html",
-    "main.7b9005d3.css.map": "/cv-land/static/css/main.7b9005d3.css.map",
+    "main.f1e0986c.css.map": "/cv-land/static/css/main.f1e0986c.css.map",
     "main.6692a8d3.js.map": "/cv-land/static/js/main.6692a8d3.js.map"
   },
   "entrypoints": [
-    "static/css/main.7b9005d3.css",
+    "static/css/main.f1e0986c.css",
     "static/js/main.6692a8d3.js"
   ]
 }
