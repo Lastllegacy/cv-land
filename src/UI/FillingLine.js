@@ -1,7 +1,5 @@
-import './FillingLine.css';
-
-function FillingLine () {
-   return <div className="drawLine">
+function FillingLine ({line}) {
+   return <div className={line}>
    </div>
 }
 

@@ -1,0 +1,49 @@
+.info {
+   display: flex;
+   flex-direction: column;
+   
+}
+
+.name {
+   font-size: 35px;
+   font-weight: 900;
+   text-align: justify;
+   text-transform: uppercase;
+   color: #71a200;
+   margin: 2vw 1vw 0 1vw;
+}
+
+.profileImage {
+   width: 200px;
+   height: 200px;
+   display: inline-block;
+   margin: 4vh 0 0 0;
+
+   align-self: center;
+
+   background-image: url('../images/photo.jpg');
+   background-position:  center 25%;
+   background-repeat: no-repeat;
+   background-size: cover;
+   border-radius: 50%;
+}
+
+.block {
+   margin: 2vw 0 0 0;
+   width: 100%;
+}
+
+.title {
+   font-weight: bold;
+   color: rgba(255, 0, 0, 0.611);
+   font-size: 16px;
+}
+
+.block ul li {
+   padding: 0.5vw 0 0 0;
+}
+
+.link {
+   text-decoration: underline;
+   font-style: italic;
+}
